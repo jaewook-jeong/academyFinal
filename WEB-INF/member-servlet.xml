@@ -21,7 +21,7 @@
       
        <bean id='testMailer' class="mail.TestMailer">
 				<property name="host" value="smtp.naver.com" />
-				<property name="password" value="tjdnfeo18gkrqjs" />
+				<property name="password" value="*****" />
 				<property name="tail" value='@naver.com'/>
 				<property name="user" value='jju08297'/>
 		</bean>

@@ -15,7 +15,7 @@ public class MailCheck {
 	private String host = "smtp.naver.com";
 	private String user = "suyeon9456";
 	private String tail = "@naver.com";
-	private String password = "eunhye!945";
+	private String password = "*******";
 	
 	//getter setter
 	public String getHost() {

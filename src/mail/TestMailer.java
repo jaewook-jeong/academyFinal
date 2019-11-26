@@ -20,7 +20,7 @@ public class TestMailer {
 	private String host = "smtp.naver.com";
 	private String user = "jju08297";
 	private String tail = "@naver.com";
-	private String password = "tjdnfeo18gkrqjs";
+	private String password = "********";
     //하단 setter, getter를 활용한 정보 주입
 	public String getHost() {
 		return host;
